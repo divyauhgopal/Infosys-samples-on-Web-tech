@@ -3,7 +3,7 @@
 	color:#fff;
 }
 #color_hsl {
-	background-color:hsl(235, 61%, 47%);
+	background-color:hsl(234, 30%, 72%);
 	color:#fff;
 }
 #color_hsla {
@@ -12,5 +12,5 @@
 }
 #color_rgba,#color_hsl,#color_hsla
 {
-padding:5px;
+padding:20px;
 }
